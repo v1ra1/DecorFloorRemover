@@ -1,0 +1,514 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="20699441-9104-4812-afeb-d7df818025cd" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DecorFloorRemover/resources/181.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DecorFloorRemover/resources/188.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCracking.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Reverse Rank.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deobfuscator/deob.iml" beforeDir="false" afterPath="$PROJECT_DIR$/deobfuscator/deob.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deobfuscator/src/main/java/net/runelite/deob/Deob.java" beforeDir="false" afterPath="$PROJECT_DIR$/deobfuscator/src/main/java/net/runelite/deob/Deob.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deobfuscator/src/main/java/net/runelite/deob/deobfuscators/RenameUnique.java" beforeDir="false" afterPath="$PROJECT_DIR$/deobfuscator/src/main/java/net/runelite/deob/deobfuscators/RenameUnique.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deobfuscator/src/main/java/net/runelite/deob/deobfuscators/RuntimeExceptions.java" beforeDir="false" afterPath="$PROJECT_DIR$/deobfuscator/src/main/java/net/runelite/deob/deobfuscators/RuntimeExceptions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deobfuscator/target/classes/deob.properties" beforeDir="false" afterPath="$PROJECT_DIR$/deobfuscator/target/classes/deob.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/asm/ClassFile.class" beforeDir="false" afterPath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/asm/ClassFile.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/asm/ClassGroup.class" beforeDir="false" afterPath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/asm/ClassGroup.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/asm/Field.class" beforeDir="false" afterPath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/asm/Field.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/asm/Field2.class" beforeDir="false" afterPath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/asm/Field2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/asm/Interfaces.class" beforeDir="false" afterPath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/asm/Interfaces.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/asm/Method.class" beforeDir="false" afterPath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/asm/Method.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/asm/Type.class" beforeDir="false" afterPath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/asm/Type.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/asm/attributes/Annotations.class" beforeDir="false" afterPath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/asm/attributes/Annotations.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/asm/attributes/Code.class" beforeDir="false" afterPath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/asm/attributes/Code.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/asm/attributes/Exceptions.class" beforeDir="false" afterPath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/asm/attributes/Exceptions.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/asm/attributes/annotation/Annotation.class" beforeDir="false" afterPath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/asm/attributes/annotation/Annotation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/asm/attributes/code/Exception.class" beforeDir="false" afterPath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/asm/attributes/code/Exception.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/asm/attributes/code/Exceptions.class" beforeDir="false" afterPath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/asm/attributes/code/Exceptions.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/asm/attributes/code/Instruction.class" beforeDir="false" afterPath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/asm/attributes/code/Instruction.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/asm/attributes/code/Instructions.class" beforeDir="false" afterPath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/asm/attributes/code/Instructions.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/asm/attributes/code/Label.class" beforeDir="false" afterPath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/asm/attributes/code/Label.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/asm/attributes/code/instruction/types/AdditionInstruction.class" beforeDir="false" afterPath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/asm/attributes/code/instruction/types/AdditionInstruction.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/asm/attributes/code/instruction/types/ArrayLoad.class" beforeDir="false" afterPath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/asm/attributes/code/instruction/types/ArrayLoad.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/asm/attributes/code/instruction/types/DivisionInstruction.class" beforeDir="false" afterPath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/asm/attributes/code/instruction/types/DivisionInstruction.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/asm/attributes/code/instruction/types/SubtractionInstruction.class" beforeDir="false" afterPath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/asm/attributes/code/instruction/types/SubtractionInstruction.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/asm/attributes/code/instructions/AALoad.class" beforeDir="false" afterPath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/asm/attributes/code/instructions/AALoad.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/asm/attributes/code/instructions/ArrayStore.class" beforeDir="false" afterPath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/asm/attributes/code/instructions/ArrayStore.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/asm/attributes/code/instructions/DAdd.class" beforeDir="false" afterPath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/asm/attributes/code/instructions/DAdd.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/asm/attributes/code/instructions/DCmpG.class" beforeDir="false" afterPath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/asm/attributes/code/instructions/DCmpG.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/asm/attributes/code/instructions/DCmpL.class" beforeDir="false" afterPath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/asm/attributes/code/instructions/DCmpL.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/asm/attributes/code/instructions/DDiv.class" beforeDir="false" afterPath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/asm/attributes/code/instructions/DDiv.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/asm/attributes/code/instructions/DLoad.class" beforeDir="false" afterPath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/asm/attributes/code/instructions/DLoad.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/asm/attributes/code/instructions/DMul.class" beforeDir="false" afterPath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/asm/attributes/code/instructions/DMul.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/asm/attributes/code/instructions/DNeg.class" beforeDir="false" afterPath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/asm/attributes/code/instructions/DNeg.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/asm/attributes/code/instructions/DRem.class" beforeDir="false" afterPath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/asm/attributes/code/instructions/DRem.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/asm/attributes/code/instructions/DSub.class" beforeDir="false" afterPath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/asm/attributes/code/instructions/DSub.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/asm/attributes/code/instructions/Dup.class" beforeDir="false" afterPath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/asm/attributes/code/instructions/Dup.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/asm/attributes/code/instructions/Dup2.class" beforeDir="false" afterPath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/asm/attributes/code/instructions/Dup2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/asm/attributes/code/instructions/Dup2_X1.class" beforeDir="false" afterPath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/asm/attributes/code/instructions/Dup2_X1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/asm/attributes/code/instructions/Dup2_X2.class" beforeDir="false" afterPath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/asm/attributes/code/instructions/Dup2_X2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/asm/attributes/code/instructions/Dup_X1.class" beforeDir="false" afterPath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/asm/attributes/code/instructions/Dup_X1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/asm/attributes/code/instructions/Dup_X2.class" beforeDir="false" afterPath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/asm/attributes/code/instructions/Dup_X2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/asm/attributes/code/instructions/FAdd.class" beforeDir="false" afterPath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/asm/attributes/code/instructions/FAdd.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/asm/attributes/code/instructions/FCmpG.class" beforeDir="false" afterPath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/asm/attributes/code/instructions/FCmpG.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/asm/attributes/code/instructions/FCmpL.class" beforeDir="false" afterPath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/asm/attributes/code/instructions/FCmpL.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/asm/attributes/code/instructions/FDiv.class" beforeDir="false" afterPath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/asm/attributes/code/instructions/FDiv.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/asm/attributes/code/instructions/FLoad.class" beforeDir="false" afterPath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/asm/attributes/code/instructions/FLoad.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/asm/attributes/code/instructions/FMul.class" beforeDir="false" afterPath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/asm/attributes/code/instructions/FMul.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/asm/attributes/code/instructions/FNeg.class" beforeDir="false" afterPath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/asm/attributes/code/instructions/FNeg.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/asm/attributes/code/instructions/FRem.class" beforeDir="false" afterPath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/asm/attributes/code/instructions/FRem.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/asm/attributes/code/instructions/FSub.class" beforeDir="false" afterPath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/asm/attributes/code/instructions/FSub.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/asm/attributes/code/instructions/GetField.class" beforeDir="false" afterPath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/asm/attributes/code/instructions/GetField.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/asm/attributes/code/instructions/GetStatic.class" beforeDir="false" afterPath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/asm/attributes/code/instructions/GetStatic.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/asm/attributes/code/instructions/Goto.class" beforeDir="false" afterPath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/asm/attributes/code/instructions/Goto.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/asm/attributes/code/instructions/GotoW.class" beforeDir="false" afterPath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/asm/attributes/code/instructions/GotoW.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/asm/attributes/code/instructions/IAdd.class" beforeDir="false" afterPath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/asm/attributes/code/instructions/IAdd.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/asm/attributes/code/instructions/IAnd.class" beforeDir="false" afterPath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/asm/attributes/code/instructions/IAnd.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/asm/attributes/code/instructions/IDiv.class" beforeDir="false" afterPath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/asm/attributes/code/instructions/IDiv.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/asm/attributes/code/instructions/IInc.class" beforeDir="false" afterPath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/asm/attributes/code/instructions/IInc.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/asm/attributes/code/instructions/ILoad.class" beforeDir="false" afterPath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/asm/attributes/code/instructions/ILoad.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/asm/attributes/code/instructions/IMul.class" beforeDir="false" afterPath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/asm/attributes/code/instructions/IMul.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/asm/attributes/code/instructions/INeg.class" beforeDir="false" afterPath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/asm/attributes/code/instructions/INeg.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/asm/attributes/code/instructions/IOr.class" beforeDir="false" afterPath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/asm/attributes/code/instructions/IOr.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/asm/attributes/code/instructions/IRem.class" beforeDir="false" afterPath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/asm/attributes/code/instructions/IRem.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/asm/attributes/code/instructions/IShL.class" beforeDir="false" afterPath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/asm/attributes/code/instructions/IShL.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/asm/attributes/code/instructions/IShR.class" beforeDir="false" afterPath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/asm/attributes/code/instructions/IShR.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/asm/attributes/code/instructions/IStore.class" beforeDir="false" afterPath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/asm/attributes/code/instructions/IStore.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/asm/attributes/code/instructions/ISub.class" beforeDir="false" afterPath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/asm/attributes/code/instructions/ISub.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/asm/attributes/code/instructions/IUShR.class" beforeDir="false" afterPath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/asm/attributes/code/instructions/IUShR.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/asm/attributes/code/instructions/IXor.class" beforeDir="false" afterPath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/asm/attributes/code/instructions/IXor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/asm/attributes/code/instructions/If.class" beforeDir="false" afterPath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/asm/attributes/code/instructions/If.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/asm/attributes/code/instructions/If0.class" beforeDir="false" afterPath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/asm/attributes/code/instructions/If0.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/asm/attributes/code/instructions/IfACmpEq.class" beforeDir="false" afterPath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/asm/attributes/code/instructions/IfACmpEq.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/asm/attributes/code/instructions/IfACmpNe.class" beforeDir="false" afterPath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/asm/attributes/code/instructions/IfACmpNe.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/asm/attributes/code/instructions/IfEq.class" beforeDir="false" afterPath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/asm/attributes/code/instructions/IfEq.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/asm/attributes/code/instructions/IfICmpEq.class" beforeDir="false" afterPath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/asm/attributes/code/instructions/IfICmpEq.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/asm/attributes/code/instructions/IfICmpNe.class" beforeDir="false" afterPath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/asm/attributes/code/instructions/IfICmpNe.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/asm/attributes/code/instructions/IfNe.class" beforeDir="false" afterPath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/asm/attributes/code/instructions/IfNe.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/asm/attributes/code/instructions/IfNonNull.class" beforeDir="false" afterPath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/asm/attributes/code/instructions/IfNonNull.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/asm/attributes/code/instructions/IfNull.class" beforeDir="false" afterPath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/asm/attributes/code/instructions/IfNull.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/asm/attributes/code/instructions/InvokeInterface.class" beforeDir="false" afterPath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/asm/attributes/code/instructions/InvokeInterface.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/asm/attributes/code/instructions/InvokeSpecial.class" beforeDir="false" afterPath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/asm/attributes/code/instructions/InvokeSpecial.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/asm/attributes/code/instructions/InvokeStatic.class" beforeDir="false" afterPath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/asm/attributes/code/instructions/InvokeStatic.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/asm/attributes/code/instructions/InvokeVirtual.class" beforeDir="false" afterPath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/asm/attributes/code/instructions/InvokeVirtual.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/asm/attributes/code/instructions/LAdd.class" beforeDir="false" afterPath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/asm/attributes/code/instructions/LAdd.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/asm/attributes/code/instructions/LAnd.class" beforeDir="false" afterPath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/asm/attributes/code/instructions/LAnd.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/asm/attributes/code/instructions/LCmp.class" beforeDir="false" afterPath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/asm/attributes/code/instructions/LCmp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/asm/attributes/code/instructions/LDC.class" beforeDir="false" afterPath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/asm/attributes/code/instructions/LDC.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/asm/attributes/code/instructions/LDiv.class" beforeDir="false" afterPath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/asm/attributes/code/instructions/LDiv.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/asm/attributes/code/instructions/LLoad.class" beforeDir="false" afterPath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/asm/attributes/code/instructions/LLoad.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/asm/attributes/code/instructions/LMul.class" beforeDir="false" afterPath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/asm/attributes/code/instructions/LMul.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/asm/attributes/code/instructions/LNeg.class" beforeDir="false" afterPath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/asm/attributes/code/instructions/LNeg.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/asm/attributes/code/instructions/LOr.class" beforeDir="false" afterPath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/asm/attributes/code/instructions/LOr.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/asm/attributes/code/instructions/LRem.class" beforeDir="false" afterPath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/asm/attributes/code/instructions/LRem.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/asm/attributes/code/instructions/LShL.class" beforeDir="false" afterPath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/asm/attributes/code/instructions/LShL.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/asm/attributes/code/instructions/LShR.class" beforeDir="false" afterPath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/asm/attributes/code/instructions/LShR.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/asm/attributes/code/instructions/LStore.class" beforeDir="false" afterPath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/asm/attributes/code/instructions/LStore.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/asm/attributes/code/instructions/LSub.class" beforeDir="false" afterPath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/asm/attributes/code/instructions/LSub.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/asm/attributes/code/instructions/LUShR.class" beforeDir="false" afterPath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/asm/attributes/code/instructions/LUShR.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/asm/attributes/code/instructions/LXor.class" beforeDir="false" afterPath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/asm/attributes/code/instructions/LXor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/asm/attributes/code/instructions/LookupSwitch.class" beforeDir="false" afterPath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/asm/attributes/code/instructions/LookupSwitch.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/asm/attributes/code/instructions/MultiANewArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/asm/attributes/code/instructions/MultiANewArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/asm/attributes/code/instructions/NewArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/asm/attributes/code/instructions/NewArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/asm/attributes/code/instructions/Pop2.class" beforeDir="false" afterPath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/asm/attributes/code/instructions/Pop2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/asm/attributes/code/instructions/PutField.class" beforeDir="false" afterPath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/asm/attributes/code/instructions/PutField.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/asm/attributes/code/instructions/PutStatic.class" beforeDir="false" afterPath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/asm/attributes/code/instructions/PutStatic.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/asm/attributes/code/instructions/Return.class" beforeDir="false" afterPath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/asm/attributes/code/instructions/Return.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/asm/attributes/code/instructions/Swap.class" beforeDir="false" afterPath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/asm/attributes/code/instructions/Swap.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/asm/attributes/code/instructions/TableSwitch.class" beforeDir="false" afterPath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/asm/attributes/code/instructions/TableSwitch.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/asm/execution/Execution.class" beforeDir="false" afterPath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/asm/execution/Execution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/asm/execution/Frame.class" beforeDir="false" afterPath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/asm/execution/Frame.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/asm/execution/InstructionContext.class" beforeDir="false" afterPath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/asm/execution/InstructionContext.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/asm/execution/MethodContext.class" beforeDir="false" afterPath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/asm/execution/MethodContext.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/asm/execution/ParallellMappingExecutor.class" beforeDir="false" afterPath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/asm/execution/ParallellMappingExecutor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/asm/execution/Stack.class" beforeDir="false" afterPath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/asm/execution/Stack.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/asm/execution/StackContext.class" beforeDir="false" afterPath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/asm/execution/StackContext.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/asm/execution/StaticStep.class" beforeDir="false" afterPath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/asm/execution/StaticStep.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/asm/execution/Value.class" beforeDir="false" afterPath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/asm/execution/Value.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/asm/execution/WeakInstructionContext.class" beforeDir="false" afterPath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/asm/execution/WeakInstructionContext.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/asm/objectwebasm/NonloadingClassWriter.class" beforeDir="false" afterPath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/asm/objectwebasm/NonloadingClassWriter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/asm/pool/Class.class" beforeDir="false" afterPath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/asm/pool/Class.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/asm/pool/Field.class" beforeDir="false" afterPath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/asm/pool/Field.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/asm/pool/Method.class" beforeDir="false" afterPath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/asm/pool/Method.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/asm/signature/Signature.class" beforeDir="false" afterPath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/asm/signature/Signature.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/asm/signature/util/VirtualMethods.class" beforeDir="false" afterPath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/asm/signature/util/VirtualMethods.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/asm/visitors/CodeVisitor.class" beforeDir="false" afterPath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/asm/visitors/CodeVisitor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/deob/Deob.class" beforeDir="false" afterPath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/deob/Deob.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/deob/DeobAnnotations.class" beforeDir="false" afterPath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/deob/DeobAnnotations.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/deob/c2s/IsaacCipherFinder.class" beforeDir="false" afterPath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/deob/c2s/IsaacCipherFinder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/deob/c2s/RWOpcodeFinder.class" beforeDir="false" afterPath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/deob/c2s/RWOpcodeFinder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/deob/clientver/ClientVersion.class" beforeDir="false" afterPath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/deob/clientver/ClientVersion.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/deob/deobfuscators/CastNull.class" beforeDir="false" afterPath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/deob/deobfuscators/CastNull.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/deob/deobfuscators/EnumDeobfuscator.class" beforeDir="false" afterPath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/deob/deobfuscators/EnumDeobfuscator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/deob/deobfuscators/FieldInliner.class" beforeDir="false" afterPath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/deob/deobfuscators/FieldInliner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/deob/deobfuscators/IllegalStateExceptions.class" beforeDir="false" afterPath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/deob/deobfuscators/IllegalStateExceptions.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/deob/deobfuscators/Lvt.class" beforeDir="false" afterPath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/deob/deobfuscators/Lvt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/deob/deobfuscators/Order.class" beforeDir="false" afterPath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/deob/deobfuscators/Order.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/deob/deobfuscators/PacketHandlerOrder.class" beforeDir="false" afterPath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/deob/deobfuscators/PacketHandlerOrder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/deob/deobfuscators/RenameUnique.class" beforeDir="false" afterPath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/deob/deobfuscators/RenameUnique.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/deob/deobfuscators/Renamer.class" beforeDir="false" afterPath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/deob/deobfuscators/Renamer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/deob/deobfuscators/RuntimeExceptions.class" beforeDir="false" afterPath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/deob/deobfuscators/RuntimeExceptions.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/deob/deobfuscators/UnreachedCode.class" beforeDir="false" afterPath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/deob/deobfuscators/UnreachedCode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/deob/deobfuscators/UnusedClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/deob/deobfuscators/UnusedClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/deob/deobfuscators/UnusedFields.class" beforeDir="false" afterPath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/deob/deobfuscators/UnusedFields.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/deob/deobfuscators/UnusedMethods.class" beforeDir="false" afterPath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/deob/deobfuscators/UnusedMethods.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/deob/deobfuscators/UnusedParameters.class" beforeDir="false" afterPath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/deob/deobfuscators/UnusedParameters.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/deob/deobfuscators/arithmetic/DMath.class" beforeDir="false" afterPath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/deob/deobfuscators/arithmetic/DMath.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/deob/deobfuscators/arithmetic/DupDeobfuscator.class" beforeDir="false" afterPath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/deob/deobfuscators/arithmetic/DupDeobfuscator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/deob/deobfuscators/arithmetic/Encryption.class" beforeDir="false" afterPath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/deob/deobfuscators/arithmetic/Encryption.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/deob/deobfuscators/arithmetic/FieldInfo.class" beforeDir="false" afterPath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/deob/deobfuscators/arithmetic/FieldInfo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/deob/deobfuscators/arithmetic/ModArith.class" beforeDir="false" afterPath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/deob/deobfuscators/arithmetic/ModArith.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/deob/deobfuscators/arithmetic/MultiplicationDeobfuscator.class" beforeDir="false" afterPath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/deob/deobfuscators/arithmetic/MultiplicationDeobfuscator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/deob/deobfuscators/arithmetic/MultiplicationExpression.class" beforeDir="false" afterPath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/deob/deobfuscators/arithmetic/MultiplicationExpression.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/deob/deobfuscators/arithmetic/MultiplyOneDeobfuscator.class" beforeDir="false" afterPath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/deob/deobfuscators/arithmetic/MultiplyOneDeobfuscator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/deob/deobfuscators/arithmetic/MultiplyZeroDeobfuscator.class" beforeDir="false" afterPath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/deob/deobfuscators/arithmetic/MultiplyZeroDeobfuscator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/deob/deobfuscators/arithmetic/Pair.class" beforeDir="false" afterPath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/deob/deobfuscators/arithmetic/Pair.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/deob/deobfuscators/cfg/Block.class" beforeDir="false" afterPath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/deob/deobfuscators/cfg/Block.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/deob/deobfuscators/cfg/ControlFlowDeobfuscator.class" beforeDir="false" afterPath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/deob/deobfuscators/cfg/ControlFlowDeobfuscator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/deob/deobfuscators/cfg/ControlFlowGraph$Builder.class" beforeDir="false" afterPath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/deob/deobfuscators/cfg/ControlFlowGraph$Builder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/deob/deobfuscators/cfg/ControlFlowGraph.class" beforeDir="false" afterPath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/deob/deobfuscators/cfg/ControlFlowGraph.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/deob/deobfuscators/constparam/ConstantMethodParameter.class" beforeDir="false" afterPath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/deob/deobfuscators/constparam/ConstantMethodParameter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/deob/deobfuscators/constparam/ConstantParameter$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/deob/deobfuscators/constparam/ConstantParameter$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/deob/deobfuscators/constparam/ConstantParameter.class" beforeDir="false" afterPath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/deob/deobfuscators/constparam/ConstantParameter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/deob/deobfuscators/exprargorder/ExprArgOrder$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/deob/deobfuscators/exprargorder/ExprArgOrder$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/deob/deobfuscators/exprargorder/ExprArgOrder.class" beforeDir="false" afterPath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/deob/deobfuscators/exprargorder/ExprArgOrder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/deob/deobfuscators/exprargorder/Expression.class" beforeDir="false" afterPath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/deob/deobfuscators/exprargorder/Expression.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/deob/deobfuscators/lvt/MapKey.class" beforeDir="false" afterPath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/deob/deobfuscators/lvt/MapKey.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/deob/deobfuscators/lvt/Mappings$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/deob/deobfuscators/lvt/Mappings$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/deob/deobfuscators/lvt/Mappings.class" beforeDir="false" afterPath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/deob/deobfuscators/lvt/Mappings.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/deob/deobfuscators/mapping/AnnotationIntegrityChecker.class" beforeDir="false" afterPath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/deob/deobfuscators/mapping/AnnotationIntegrityChecker.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/deob/deobfuscators/mapping/AnnotationMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/deob/deobfuscators/mapping/AnnotationMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/deob/deobfuscators/mapping/ClassGroupMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/deob/deobfuscators/mapping/ClassGroupMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/deob/deobfuscators/mapping/ClassMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/deob/deobfuscators/mapping/ClassMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/deob/deobfuscators/mapping/ConstructorMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/deob/deobfuscators/mapping/ConstructorMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/deob/deobfuscators/mapping/ExecutionMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/deob/deobfuscators/mapping/ExecutionMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/deob/deobfuscators/mapping/Mapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/deob/deobfuscators/mapping/Mapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/deob/deobfuscators/mapping/Mapping.class" beforeDir="false" afterPath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/deob/deobfuscators/mapping/Mapping.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/deob/deobfuscators/mapping/MappingExecutorUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/deob/deobfuscators/mapping/MappingExecutorUtil.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/deob/deobfuscators/mapping/MethodSignatureMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/deob/deobfuscators/mapping/MethodSignatureMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/deob/deobfuscators/mapping/ParallelExecutorMapping.class" beforeDir="false" afterPath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/deob/deobfuscators/mapping/ParallelExecutorMapping.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/deob/deobfuscators/mapping/StaticInitializerIndexer.class" beforeDir="false" afterPath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/deob/deobfuscators/mapping/StaticInitializerIndexer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/deob/deobfuscators/mapping/StaticMethodSignatureMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/deob/deobfuscators/mapping/StaticMethodSignatureMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/deob/deobfuscators/menuaction/Comparison.class" beforeDir="false" afterPath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/deob/deobfuscators/menuaction/Comparison.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/deob/deobfuscators/menuaction/MenuActionDeobfuscator.class" beforeDir="false" afterPath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/deob/deobfuscators/menuaction/MenuActionDeobfuscator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/deob/deobfuscators/packethandler/PacketLengthFinder.class" beforeDir="false" afterPath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/deob/deobfuscators/packethandler/PacketLengthFinder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/deob/deobfuscators/packethandler/PacketRead.class" beforeDir="false" afterPath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/deob/deobfuscators/packethandler/PacketRead.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/deob/deobfuscators/packethandler/PacketTypeFinder.class" beforeDir="false" afterPath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/deob/deobfuscators/packethandler/PacketTypeFinder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/deob/deobfuscators/packetwrite/OpcodeReplacer.class" beforeDir="false" afterPath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/deob/deobfuscators/packetwrite/OpcodeReplacer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/deob/deobfuscators/packetwrite/PacketWriteDeobfuscator.class" beforeDir="false" afterPath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/deob/deobfuscators/packetwrite/PacketWriteDeobfuscator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/deob/deobfuscators/transformers/ClientErrorTransformer.class" beforeDir="false" afterPath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/deob/deobfuscators/transformers/ClientErrorTransformer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/deob/deobfuscators/transformers/GetPathTransformer.class" beforeDir="false" afterPath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/deob/deobfuscators/transformers/GetPathTransformer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/deob/deobfuscators/transformers/MaxMemoryTransformer.class" beforeDir="false" afterPath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/deob/deobfuscators/transformers/MaxMemoryTransformer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/deob/deobfuscators/transformers/OpcodesTransformer.class" beforeDir="false" afterPath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/deob/deobfuscators/transformers/OpcodesTransformer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/deob/deobfuscators/transformers/ReflectionTransformer.class" beforeDir="false" afterPath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/deob/deobfuscators/transformers/ReflectionTransformer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/deob/deobfuscators/transformers/RuneliteBufferTransformer.class" beforeDir="false" afterPath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/deob/deobfuscators/transformers/RuneliteBufferTransformer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/deob/deobfuscators/transformers/buffer/BufferFinder.class" beforeDir="false" afterPath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/deob/deobfuscators/transformers/buffer/BufferFinder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/deob/deobfuscators/transformers/buffer/BufferMethodInjector.class" beforeDir="false" afterPath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/deob/deobfuscators/transformers/buffer/BufferMethodInjector.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/deob/deobfuscators/transformers/buffer/BufferPayloadFinder.class" beforeDir="false" afterPath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/deob/deobfuscators/transformers/buffer/BufferPayloadFinder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/deob/deobfuscators/transformers/buffer/PacketFlushFinder.class" beforeDir="false" afterPath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/deob/deobfuscators/transformers/buffer/PacketFlushFinder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/deob/deobfuscators/transformers/buffer/RuneliteBuffer.class" beforeDir="false" afterPath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/deob/deobfuscators/transformers/buffer/RuneliteBuffer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/deob/s2c/HandlerFinder.class" beforeDir="false" afterPath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/deob/s2c/HandlerFinder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/deob/s2c/PacketHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/deob/s2c/PacketHandler.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/deob/s2c/PacketHandlers.class" beforeDir="false" afterPath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/deob/s2c/PacketHandlers.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/deob/updater/AnnotationCopier.class" beforeDir="false" afterPath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/deob/updater/AnnotationCopier.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/deob/updater/AnnotationRenamer.class" beforeDir="false" afterPath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/deob/updater/AnnotationRenamer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/deob/updater/ParameterRenamer.class" beforeDir="false" afterPath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/deob/updater/ParameterRenamer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/deob/updater/UpdateMappings.class" beforeDir="false" afterPath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/deob/updater/UpdateMappings.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/deob/util/JarUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/deobfuscator/target/classes/net/runelite/deob/util/JarUtil.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deobfuscator/target/test-classes/net/runelite/deob/TemporyFolderLocation.class" beforeDir="false" afterPath="$PROJECT_DIR$/deobfuscator/target/test-classes/net/runelite/deob/TemporyFolderLocation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deobfuscator/target/test-classes/net/runelite/deob/deobfuscators/CastNullTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/deobfuscator/target/test-classes/net/runelite/deob/deobfuscators/CastNullTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deobfuscator/target/test-classes/net/runelite/deob/deobfuscators/LvtTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/deobfuscator/target/test-classes/net/runelite/deob/deobfuscators/LvtTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deobfuscator/target/test-classes/net/runelite/deob/deobfuscators/RenameUniqueTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/deobfuscator/target/test-classes/net/runelite/deob/deobfuscators/RenameUniqueTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deobfuscator/target/test-classes/net/runelite/deob/deobfuscators/arithmetic/DupDeobfuscatorTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/deobfuscator/target/test-classes/net/runelite/deob/deobfuscators/arithmetic/DupDeobfuscatorTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deobfuscator/target/test-classes/net/runelite/deob/deobfuscators/arithmetic/ModArithTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/deobfuscator/target/test-classes/net/runelite/deob/deobfuscators/arithmetic/ModArithTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deobfuscator/target/test-classes/net/runelite/deob/deobfuscators/arithmetic/MultiplicationDeobfuscatorTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/deobfuscator/target/test-classes/net/runelite/deob/deobfuscators/arithmetic/MultiplicationDeobfuscatorTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deobfuscator/target/test-classes/net/runelite/deob/deobfuscators/arithmetic/MultiplyOneDeobfuscatorTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/deobfuscator/target/test-classes/net/runelite/deob/deobfuscators/arithmetic/MultiplyOneDeobfuscatorTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deobfuscator/target/test-classes/net/runelite/deob/deobfuscators/arithmetic/SimpleModArithTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/deobfuscator/target/test-classes/net/runelite/deob/deobfuscators/arithmetic/SimpleModArithTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deobfuscator/target/test-classes/net/runelite/deob/deobfuscators/arithmetic/TestClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/deobfuscator/target/test-classes/net/runelite/deob/deobfuscators/arithmetic/TestClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deobfuscator/target/test-classes/net/runelite/deob/deobfuscators/exprargorder/ExprArgOrderTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/deobfuscator/target/test-classes/net/runelite/deob/deobfuscators/exprargorder/ExprArgOrderTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deobfuscator/target/test-classes/net/runelite/deob/deobfuscators/mapping/MappingDumper.class" beforeDir="false" afterPath="$PROJECT_DIR$/deobfuscator/target/test-classes/net/runelite/deob/deobfuscators/mapping/MappingDumper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deobfuscator/target/test-classes/net/runelite/deob/deobfuscators/unreachedcode/UnreachableTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/deobfuscator/target/test-classes/net/runelite/deob/deobfuscators/unreachedcode/UnreachableTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deobfuscator/target/test-classes/net/runelite/deob/injection/TestingClassLoader.class" beforeDir="false" afterPath="$PROJECT_DIR$/deobfuscator/target/test-classes/net/runelite/deob/injection/TestingClassLoader.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deobfuscator/target/test-classes/net/runelite/deob/updater/UpdateMappingsTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/deobfuscator/target/test-classes/net/runelite/deob/updater/UpdateMappingsTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deobfuscator/target/test-classes/net/runelite/osb/HookImporter.class" beforeDir="false" afterPath="$PROJECT_DIR$/deobfuscator/target/test-classes/net/runelite/osb/HookImporter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deobfuscator/target/test-classes/net/runelite/runesuite/HookImporter.class" beforeDir="false" afterPath="$PROJECT_DIR$/deobfuscator/target/test-classes/net/runelite/runesuite/HookImporter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/vOSBot/net/vcom/deob/Deob.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/vOSBot/net/vcom/deob/Deobfuscator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/vOSBot/net/vcom/deob/deobfuscators/RenameUniqueDeob.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/vOSBot/net/vcom/deob/deobfuscators/RenamerDeob.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/vOSBot/net/vcom/deob/deobfuscators/StackTrace/StackTraceDeob.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/vOSBot/net/vcom/deob/deobfuscators/StackTrace/StackTraceItem.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/vOSBot/net/vcom/deob/deobfuscators/StackTrace/StackTraceRef.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/vOSBot/net/vcom/deob/deobfuscators/StringDecryptDeob.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/vOSBot/net/vcom/injector/Injector.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vOSBot/NexNex-out.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vOSBot/NexNex.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vOSBot/OSBot2.5.42-deob.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vOSBot/OSBot2.5.42-deob2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vOSBot/OSBot2.5.42-deob3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vOSBot/OSBot2.5.42-stack.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vOSBot/OSBot2.5.42.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vOSBot/needlefinder.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vOSBot/run-deob.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vOSBot/src/net/vcom/deob/Deob.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vOSBot/src/net/vcom/deob/Deobfuscator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vOSBot/src/net/vcom/deob/deobfuscators/RenameUniqueDeob.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vOSBot/src/net/vcom/deob/deobfuscators/RenamerDeob.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vOSBot/src/net/vcom/deob/deobfuscators/StackTrace/StackTraceDeob.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vOSBot/src/net/vcom/deob/deobfuscators/StackTrace/StackTraceItem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vOSBot/src/net/vcom/deob/deobfuscators/StackTrace/StackTraceRef.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vOSBot/src/net/vcom/deob/deobfuscators/StringDecryptDeob.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vOSBot/src/net/vcom/injector/Injector.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vOSBot/vOSBot.iml" beforeDir="false" afterPath="$PROJECT_DIR$/DecorFloorRemover/Test.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1YzxaN3QJoP4NrGXOfV9sRZszUb" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1565851929138" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/DecorFloorRemover/resources" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.34919655" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\$\IdeaProjects\Swipe\DecorFloorRemover\resources" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="net.vcom.deob.deobfuscators.StackTrace" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\$\IdeaProjects\Swipe\DecorFloorRemover\resources" />
+      <recent name="C:\Users\$\IdeaProjects\Swipe\out\production\Test" />
+      <recent name="C:\Users\$\IdeaProjects\Swipe\DecorFloorRemover\src" />
+      <recent name="C:\Users\$\IdeaProjects\JavaCracking\SwipeTest\src" />
+      <recent name="C:\Users\$\IdeaProjects\JavaCracking" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Remover">
+    <configuration name="Deob" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="net.runelite.deob.Deob" />
+      <module name="deob" />
+      <option name="PROGRAM_PARAMETERS" value="C:\Users\$\rpkzclient\rpkz2.jar C:\Users\$\rpkzclient\rpkz2-deob.jar" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="net.runelite.deob.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Injector" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="net.vcom.injector.Injector" />
+      <module name="vOSBot" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OSBot Deob Renamer" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="net.vcom.deob.Deob" />
+      <module name="vOSBot" />
+      <option name="PROGRAM_PARAMETERS" value="C:\Users\$\rpkzclient\rpkz2.jar C:\Users\$\rpkzclient\rpkz2-deob.jar" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="net.vcom.deob.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OSBot Deob Stack" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="net.vcom.deob.Deob" />
+      <module name="vOSBot" />
+      <option name="PROGRAM_PARAMETERS" value="C:\Users\$\Desktop\OSBot2.5.45.jar C:\Users\$\Desktop\OSBot2.5.45-stack.jar" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="net.vcom.deob.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OSBot Deob String" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="net.vcom.deob.Deob" />
+      <module name="vOSBot" />
+      <option name="PROGRAM_PARAMETERS" value="C:\Users\$\Desktop\OSBot2.5.45-stack.jar C:\Users\$\Desktop\OSBot2.5.45-string.jar" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="net.vcom.deob.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Remover" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Remover" />
+      <module name="Test" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="vJvider Deob Renamer" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="net.vcom.deob.Deob" />
+      <module name="vOSBot" />
+      <option name="PROGRAM_PARAMETERS" value="C:\Users\$\Documents\Java\jvider-1.8.1\jvider.jar C:\Users\$\Documents\Java\jvider-1.8.1\jvider-deob.jar" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="net.vcom.deob.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.OSBot Deob Renamer" />
+      <item itemvalue="Application.vJvider Deob Renamer" />
+      <item itemvalue="Application.OSBot Deob String" />
+      <item itemvalue="Application.Injector" />
+      <item itemvalue="Application.OSBot Deob Stack" />
+      <item itemvalue="Application.Deob" />
+      <item itemvalue="Application.Remover" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Remover" />
+        <item itemvalue="Application.Deob" />
+        <item itemvalue="Application.OSBot Deob Stack" />
+        <item itemvalue="Application.Injector" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="20699441-9104-4812-afeb-d7df818025cd" name="Default Changelist" comment="" />
+      <created>1555222673764</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1555222673764</updated>
+      <workItem from="1583959289123" duration="5050000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="3690" y="274" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog" timestamp="1589559418299">
+      <screen x="3000" y="0" width="1920" height="1040" />
+    </state>
+    <state x="3690" y="274" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog/0.0.1920.1040/3000.0.1920.1040/-1920.0.1920.1040/0.-1089.1920.1040/1920.-828.1080.1880@3000.0.1920.1040" timestamp="1589559418299" />
+    <state width="1877" height="214" key="GridCell.Tab.0.bottom" timestamp="1589563207109">
+      <screen x="3000" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="214" key="GridCell.Tab.0.bottom/0.0.1920.1040/3000.0.1920.1040/-1920.0.1920.1040/0.-1089.1920.1040/1920.-828.1080.1880@3000.0.1920.1040" timestamp="1589563207109" />
+    <state width="1877" height="214" key="GridCell.Tab.0.center" timestamp="1589563207109">
+      <screen x="3000" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="214" key="GridCell.Tab.0.center/0.0.1920.1040/3000.0.1920.1040/-1920.0.1920.1040/0.-1089.1920.1040/1920.-828.1080.1880@3000.0.1920.1040" timestamp="1589563207109" />
+    <state width="1877" height="214" key="GridCell.Tab.0.left" timestamp="1589563207109">
+      <screen x="3000" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="214" key="GridCell.Tab.0.left/0.0.1920.1040/3000.0.1920.1040/-1920.0.1920.1040/0.-1089.1920.1040/1920.-828.1080.1880@3000.0.1920.1040" timestamp="1589563207109" />
+    <state width="1877" height="214" key="GridCell.Tab.0.right" timestamp="1589563207109">
+      <screen x="3000" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="214" key="GridCell.Tab.0.right/0.0.1920.1040/3000.0.1920.1040/-1920.0.1920.1040/0.-1089.1920.1040/1920.-828.1080.1880@3000.0.1920.1040" timestamp="1589563207109" />
+    <state width="1877" height="340" key="GridCell.Tab.1.bottom" timestamp="1589558639770">
+      <screen x="3000" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="340" key="GridCell.Tab.1.bottom/0.0.1920.1040/3000.0.1920.1040/-1920.0.1920.1040/0.-1089.1920.1040/1920.-828.1080.1880@3000.0.1920.1040" timestamp="1589558639770" />
+    <state width="1877" height="340" key="GridCell.Tab.1.center" timestamp="1589558639770">
+      <screen x="3000" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="340" key="GridCell.Tab.1.center/0.0.1920.1040/3000.0.1920.1040/-1920.0.1920.1040/0.-1089.1920.1040/1920.-828.1080.1880@3000.0.1920.1040" timestamp="1589558639770" />
+    <state width="1877" height="340" key="GridCell.Tab.1.left" timestamp="1589558639770">
+      <screen x="3000" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="340" key="GridCell.Tab.1.left/0.0.1920.1040/3000.0.1920.1040/-1920.0.1920.1040/0.-1089.1920.1040/1920.-828.1080.1880@3000.0.1920.1040" timestamp="1589558639770" />
+    <state width="1877" height="340" key="GridCell.Tab.1.right" timestamp="1589558639770">
+      <screen x="3000" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="340" key="GridCell.Tab.1.right/0.0.1920.1040/3000.0.1920.1040/-1920.0.1920.1040/0.-1089.1920.1040/1920.-828.1080.1880@3000.0.1920.1040" timestamp="1589558639770" />
+    <state x="3440" y="94" key="SettingsEditor" timestamp="1589563004505">
+      <screen x="3000" y="0" width="1920" height="1040" />
+    </state>
+    <state x="3440" y="94" key="SettingsEditor/0.0.1920.1040/3000.0.1920.1040/-1920.0.1920.1040/0.-1089.1920.1040/1920.-828.1080.1880@3000.0.1920.1040" timestamp="1589563004505" />
+    <state x="3342" y="95" key="new project wizard" timestamp="1589561424057">
+      <screen x="3000" y="0" width="1920" height="1040" />
+    </state>
+    <state x="342" y="95" key="new project wizard/0.0.1920.1040/3000.0.1920.1040/-1920.0.1920.1040/0.-1089.1920.1040/1920.-828.1080.1880@0.0.1920.1040" timestamp="1589554587629" />
+    <state x="3342" y="95" key="new project wizard/0.0.1920.1040/3000.0.1920.1040/-1920.0.1920.1040/0.-1089.1920.1040/1920.-828.1080.1880@3000.0.1920.1040" timestamp="1589561424057" />
+  </component>
+</project>

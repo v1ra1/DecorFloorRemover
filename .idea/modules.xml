@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Reverse Rank.iml" filepath="$PROJECT_DIR$/Reverse Rank.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DecorFloorRemover/Test.iml" filepath="$PROJECT_DIR$/DecorFloorRemover/Test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/deobfuscator/deob.iml" filepath="$PROJECT_DIR$/deobfuscator/deob.iml" />
+    </modules>
+  </component>
+</project>

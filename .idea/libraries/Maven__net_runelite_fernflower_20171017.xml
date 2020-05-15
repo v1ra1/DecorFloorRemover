@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: net.runelite:fernflower:20171017">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/net/runelite/fernflower/20171017/fernflower-20171017.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/net/runelite/fernflower/20171017/fernflower-20171017-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/net/runelite/fernflower/20171017/fernflower-20171017-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
